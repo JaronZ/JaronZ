@@ -239,7 +239,7 @@
                     <rect mask="url(#languages-bar)" x="387.84788442293063" y="0" width="46.68214408166002" height="8" fill="#4F5D95"/>
                     <rect mask="url(#languages-bar)" x="434.5300285045907" y="0" width="12.670967448086346" height="8" fill="#5e5086"/>
                     <rect mask="url(#languages-bar)" x="447.20099595267703" y="0" width="8.249048898088182" height="8" fill="#C1F12E"/>
-                    <rect mask="url(#languages-bar)" x="455.45004485076527" y="0" width="4.549955149234753" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="455.45004485076527" y="0" width="4.549955149234753" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -286,7 +286,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
@@ -402,7 +402,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Dec 2024, 13:49:48 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2024, 14:33:41 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
