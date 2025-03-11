@@ -327,7 +327,7 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#263 [MOD] TwilightForest Thread Safety Addon</span>
+                                        <span class="issue">#279 [MOD] Farmer's Cutting: Twilight Forest</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -344,7 +344,7 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#262 [MOD] Time in a bottle [FORGE\NEOFORGE\FABRIC]</span>
+                                        <span class="issue">#278 [MOD] Mekanism Covers</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -361,7 +361,7 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#261 [MOD] The Twilight Forest</span>
+                                        <span class="issue">#277 [MOD] Mekanism Turrets &amp; Fences</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -378,7 +378,7 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#260 [MOD] The Turkish Meals</span>
+                                        <span class="issue">#276 [MOD] Mekanism: Weapons</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -395,7 +395,7 @@
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#259 [MOD] Smithing Template Viewer for JEI/EMI</span>
+                                        <span class="issue">#275 [MOD] Ribbe Delight (A Farmer's Delight Add-on)</span>
                                     </div>
                                 </div>
                                 <div class="details">
@@ -408,7 +408,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Mar 2025, 05:29:02 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Mar 2025, 06:23:40 (timezone Europe/Amsterdam) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
